@@ -10,6 +10,8 @@ Components I used:
 ## Analytics
 Guide: [https://thingsboard.io/docs/user-guide/install/docker-windows/](https://thingsboard.io/docs/user-guide/install/docker-windows/)
 
+![ThingsBoard dashboard](images/dashboard.jpg)
+
 ### Setup
 - [Prerequisites] Install Docker CE
 - Create `d:\tb\` directory
