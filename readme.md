@@ -2,6 +2,10 @@
 Set up an Arduino to monitor light and sound readings from your baby's room to determine when they wake up.
 
 ## Arduino
+Components I used:
+- [Arduino Uno WiFi Rev2](https://store.arduino.cc/usa/arduino-uno-wifi-rev2)
+- [OSEPP Light Sensor Module](https://www.osepp.com/electronic-modules/sensor-modules/69-light-sensor-module)
+- [OSEPP Sound Sensor Module](https://www.osepp.com/electronic-modules/sensor-modules/78-sound-sensor-module)
 
 ## Analytics
 Guide: [https://thingsboard.io/docs/user-guide/install/docker-windows/](https://thingsboard.io/docs/user-guide/install/docker-windows/)
